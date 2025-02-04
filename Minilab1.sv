@@ -451,8 +451,11 @@ parameter OFF   = 7'b1111111;		// all off
             3'b000: sel = 3'd0;
             3'b001: sel = 3'd1;
             3'b010: sel = 3'd2;
-            //3'b011: sel = 3'd3;
-            default: sel = 3'd3;
+            3'b011: sel = 3'd3;
+	    3'b100: sel = 3'd4;
+	    3'b101: sel = 3'd5;
+	    3'b110: sel = 3'd6;
+	    3'b111: sel = 3'd7;
            
         endcase
 
