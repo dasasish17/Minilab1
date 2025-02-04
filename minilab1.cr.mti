@@ -1,0 +1,36 @@
+{I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/mac.sv} {1 {vlog -work work -vopt -sv -stats=none {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/mac.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module MAC
+
+Top level modules:
+	MAC
+
+} {} {}} {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1_tb.sv} {1 {vlog -work work -vopt -sv -stats=none {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1_tb.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module Minilab1_tb
+
+Top level modules:
+	Minilab1_tb
+
+} {} {}} {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/memory.v} {1 {vlog -work work -vopt -stats=none {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/memory.v}
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module mem_wrapper
+
+Top level modules:
+	mem_wrapper
+
+} {} {}} {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/rom.v} {1 {vlog -work work -vopt -stats=none {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/rom.v}
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/fifo.sv} {1 {vlog -work work -vopt -sv -stats=none {I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/fifo.sv}
+Questa Intel Starter FPGA Edition-64 vlog 2023.3 Compiler 2023.07 Jul 17 2023
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+
+} {} {}}

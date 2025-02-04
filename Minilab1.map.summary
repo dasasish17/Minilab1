@@ -1,0 +1,17 @@
+Analysis & Synthesis Status : Successful - Thu Jan 30 18:50:57 2025
+Quartus Prime Version : 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+Revision Name : Minilab1
+Top-level Entity Name : Minilab1
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 604
+Total pins : 67
+Total virtual pins : 0
+Total block memory bits : 896
+Total DSP Blocks : 4
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

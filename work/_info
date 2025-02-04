@@ -1,0 +1,233 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/23.1std
+T_opt
+!s110 1738284608
+V;GT4dd:9X0QEUCCVV3E;M2
+04 11 4 work Minilab1_tb fast 0
+=1-4cd71794e396-679c1e3e-3e3-4928
+R1
+!s12b OEM100
+!s124 OEM10U21 
+o-quiet -auto_acc_if_foreign -work work -L C:/intelFPGA_lite/23.1std/questa_fse/intel/verilog/altera_mf +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vFIFO
+2I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/fifo.sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1738274490
+!i10b 1
+!s100 Qa6NBbBEY9de]I86VTQaB1
+I_JL6VL9JOT=`B5f_3M8VI1
+S1
+Z4 dI:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1
+w1738199732
+8I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/fifo.sv
+FI:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/fifo.sv
+!i122 9
+L0 1 60
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2023.3;77
+r1
+!s85 0
+31
+!s108 1738274489.000000
+!s107 I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/fifo.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/fifo.sv|
+!i113 0
+Z7 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@f@i@f@o
+vMAC
+2I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/mac.sv
+R3
+!s110 1738282288
+!i10b 1
+!s100 Hm8le@7YlCh:fGoTo`BGQ1
+IV43GNlgE8Oez7^ZEeHm>^3
+S1
+R4
+w1738282273
+8I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/mac.sv
+FI:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/mac.sv
+!i122 28
+L0 1 63
+R5
+R6
+r1
+!s85 0
+31
+!s108 1738282288.000000
+!s107 I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/mac.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/mac.sv|
+!i113 0
+R7
+R2
+n@m@a@c
+vmem_wrapper
+2I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/memory.v
+!s110 1738274491
+!i10b 1
+!s100 M3jiLfB;XFR[V<[F]GN6V1
+IDzbkglSBfCk]BnfJE]fB13
+R4
+Z8 w1738274314
+8I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/memory.v
+FI:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/memory.v
+!i122 11
+L0 2 66
+R5
+R6
+r1
+!s85 0
+31
+!s108 1738274491.000000
+!s107 I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/memory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/memory.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vMinilab1
+2I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1.sv
+R3
+!s110 1738284592
+!i10b 1
+!s100 lB@7e3EZlXL@L@GLB8JGT2
+I6LZIUViTn^SaQQ[An9a1i1
+S1
+R4
+w1738284589
+8I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1.sv
+FI:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1.sv
+!i122 30
+L0 1 620
+R5
+R6
+r1
+!s85 0
+31
+!s108 1738284592.000000
+!s107 I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1.sv|
+!i113 0
+R7
+R2
+n@minilab1
+vMinilab1_tb
+Z10 2I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1_tb.sv
+R3
+!s110 1738277410
+!i10b 1
+!s100 W7m`kR_o]1IfRiREke4Ad2
+IolQFD[E3ILo6dcVLUf5<b1
+S1
+R4
+w1738276639
+Z11 8I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1_tb.sv
+Z12 FI:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1_tb.sv
+!i122 19
+L0 3 76
+R5
+R6
+r1
+!s85 0
+31
+!s108 1738277409.000000
+Z13 !s107 I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1_tb.sv|
+Z14 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/Minilab1_tb.sv|
+!i113 0
+R7
+R2
+n@minilab1_tb
+vrom
+2I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/rom.v
+!s110 1738274493
+!i10b 1
+!s100 gIjok9nLdKAWK47?alcLX2
+IUX@A0DnYHmCkgjlCYnJK42
+R4
+R8
+8I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/rom.v
+FI:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/rom.v
+!i122 14
+L0 40 61
+R5
+R6
+r1
+!s85 0
+31
+!s108 1738274492.000000
+!s107 I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/rom.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|I:/ECE554/DE1-SoC_v.5.1.1_HWrevF_SystemCD (1)/Tools/SystemBuilder/CodeGenerated/DE1_SOC/Minilab1/rom.v|
+!i113 0
+R9
+R2
+vtb_Minilab1
+R10
+R3
+!s110 1738203042
+!i10b 1
+!s100 i7eGUXQf9YWdI1AcOR;S50
+InF;2YaUQEj2JFhd[1:9@S1
+S1
+R4
+w1738202944
+R11
+R12
+!i122 3
+L0 3 79
+R5
+R6
+r1
+!s85 0
+31
+!s108 1738203041.000000
+R13
+R14
+!i113 0
+R7
+R2
+ntb_@minilab1
